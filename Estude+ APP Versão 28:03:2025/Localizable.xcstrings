@@ -1,0 +1,186 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Adicionar" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adicionar"
+          }
+        }
+      }
+    },
+    "Áreas de Conhecimento" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Áreas de Conhecimento"
+          }
+        }
+      }
+    },
+    "Back" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voltar"
+          }
+        }
+      }
+    },
+    "Biologia" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Biologia"
+          }
+        }
+      }
+    },
+    "Buscar linguagem" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar linguagem"
+          }
+        }
+      }
+    },
+    "Buscar tópico" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar tópico"
+          }
+        }
+      }
+    },
+    "Ciências da Natureza" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ciências da Natureza"
+          }
+        }
+      }
+    },
+    "Ciências Humanas" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ciências Humanas"
+          }
+        }
+      }
+    },
+    "Clique aqui e aproveite:" : {
+
+    },
+    "Começar" : {
+
+    },
+    "Cronogramas" : {
+
+    },
+    "Desempenho" : {
+
+    },
+    "Digite o nome do cronograma" : {
+
+    },
+    "Enem 2025" : {
+
+    },
+    "Escolha uma data" : {
+
+    },
+    "Estude +" : {
+
+    },
+    "Filosofia e Sociologia" : {
+
+    },
+    "Física" : {
+
+    },
+    "Geografia" : {
+
+    },
+    "Hello, World!" : {
+
+    },
+    "Historia " : {
+
+    },
+    "Linguagens" : {
+
+    },
+    "Matemática" : {
+
+    },
+    "Matérias" : {
+
+    },
+    "Meu Desempenho" : {
+
+    },
+    "Meus cronogramas" : {
+
+    },
+    "Modelo" : {
+
+    },
+    "Nome do Cronograma" : {
+
+    },
+    "Preparado para navegar em \numa nova experiência?" : {
+
+    },
+    "Provas antigas" : {
+
+    },
+    "Provas antigas Enem" : {
+
+    },
+    "Quais Dias da Semana Você Pretende Estudar?" : {
+
+    },
+    "Quais Disciplinas Você Quer Estudar na Semana?" : {
+
+    },
+    "Química " : {
+
+    },
+    "Salvar" : {
+
+    },
+    "Selecione a Data de Término" : {
+
+    },
+    "Sobre sua taxa de concluído:" : {
+
+    },
+    "Você ainda não possui um cronograma, adicione e comece os estudos!" : {
+
+    },
+    "Você concluiu 80%  das matérias listadas" : {
+
+    }
+  },
+  "version" : "1.0"
+}
